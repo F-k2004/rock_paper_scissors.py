@@ -1,1 +1,1 @@
-python rock_paper_scissors.py
+python rok_paper_scissors.py
